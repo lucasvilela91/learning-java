@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd586fb1-25a0-44e1-9378-5bc35ffd5fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screen-match.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +34,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Condicional.executor": "Run",
+    "Application.ExemploScanner.executor": "Run",
     "Application.Investir.executor": "Run",
+    "Application.JogoAdivinhacao.executor": "Run",
     "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OutroLoop.executor": "Run",
     "Application.Temperatura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,14 +49,7 @@
     "onboarding.tips.debug.path": "C:/Users/lucas/Desktop/Curso Java/screen-match/screen-match/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExemploScanner">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
-      <module name="screen-match" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JogoAdivinhacao">
     <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
       <module name="screen-match" />
@@ -73,15 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leitura" />
+    <configuration name="JogoAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JogoAdivinhacao" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperatura" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="screen-match" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogoAdivinhacao" />
+        <item itemvalue="Application.OutroLoop" />
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.ExemploScanner" />
         <item itemvalue="Application.Investir" />
-        <item itemvalue="Application.Leitura" />
-        <item itemvalue="Application.Condicional" />
-        <item itemvalue="Application.Temperatura" />
       </list>
     </recent_temporary>
   </component>

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd586fb1-25a0-44e1-9378-5bc35ffd5fc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParOuImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParOuImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2uPHyItyD21YlLrrschH71Geg4s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +37,9 @@
     "Application.CalculadoraArea.executor": "Run",
     "Application.Comparacao.executor": "Run",
     "Application.Condicional.executor": "Run",
+    "Application.Desafio.executor": "Run",
     "Application.ExemploScanner.executor": "Run",
+    "Application.Fatorial.executor": "Run",
     "Application.Investir.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Leitura.executor": "Run",
@@ -55,7 +57,7 @@
     "onboarding.tips.debug.path": "C:/Users/lucas/Desktop/Curso Java/screen-match/screen-match/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Fatorial">
+  <component name="RunManager" selected="Application.Desafio">
     <configuration name="CalculadoraArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculadoraArea" />
       <module name="screen-match" />
@@ -63,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparacao" />
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.ParOuImpar" />
         <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.CalculadoraArea" />
-        <item itemvalue="Application.Comparacao" />
       </list>
     </recent_temporary>
   </component>

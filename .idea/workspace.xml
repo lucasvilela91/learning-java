@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd586fb1-25a0-44e1-9378-5bc35ffd5fc3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParOuImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParOuImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculadoraArea.executor": "Run",
+    "Application.Comparacao.executor": "Run",
     "Application.Condicional.executor": "Run",
     "Application.ExemploScanner.executor": "Run",
     "Application.Investir.executor": "Run",
@@ -41,6 +44,9 @@
     "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OutroLoop.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
+    "Application.PositivoNegativo.executor": "Run",
+    "Application.Tabuada.executor": "Run",
     "Application.Temperatura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -49,37 +55,37 @@
     "onboarding.tips.debug.path": "C:/Users/lucas/Desktop/Curso Java/screen-match/screen-match/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JogoAdivinhacao">
-    <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
+  <component name="RunManager" selected="Application.Fatorial">
+    <configuration name="CalculadoraArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculadoraArea" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Investir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Investir" />
+    <configuration name="Comparacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparacao" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogoAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JogoAdivinhacao" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fatorial" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop" />
+    <configuration name="ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParOuImpar" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabuada" />
       <module name="screen-match" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JogoAdivinhacao" />
-        <item itemvalue="Application.OutroLoop" />
-        <item itemvalue="Application.Loop" />
-        <item itemvalue="Application.ExemploScanner" />
-        <item itemvalue="Application.Investir" />
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.ParOuImpar" />
+        <item itemvalue="Application.Tabuada" />
+        <item itemvalue="Application.CalculadoraArea" />
+        <item itemvalue="Application.Comparacao" />
       </list>
     </recent_temporary>
   </component>
